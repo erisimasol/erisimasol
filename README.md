@@ -103,14 +103,6 @@ I work where **technology, data and business strategy** meet. I build machine-le
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=erisimasol&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erisimasol&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erisimasol/erisimasol/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erisimasol/erisimasol/output/github-snake.svg" />
