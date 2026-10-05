@@ -31,6 +31,31 @@ I work where **technology, data and business strategy** meet. I build machine-le
 
 ---
 
+## 🌟 Spotlight: InsightDeck
+
+<p align="center">
+  <a href="https://github.com/erisimasol/insightdeck">
+    <img src="https://raw.githubusercontent.com/erisimasol/insightdeck/main/docs/screenshots/dashboard.png" alt="InsightDeck dashboard" width="90%"/>
+  </a>
+</p>
+
+**[InsightDeck](https://github.com/erisimasol/insightdeck)** turns any document (Excel, CSV, Word, PDF, HTML or JSON) into an analysed, board-ready dashboard in seconds, then exports it as an interactive HTML report or a Word document.
+
+- 📊 **Automatic analysis:** KPIs, trends, concentration, outliers, correlations and plain-language insights
+- 🏦 **Built for real system exports:** reads mislabelled `.xls` files, separates subtotal rows, reconciles to report totals and recomputes ratios such as *provisioning ÷ principal*
+- 🔐 **Role-based access:** administrator, analyst and viewer roles, with an audit log, account lockout and session timeout
+- 🌍 **Standards-aligned:** IBCS-style charts, ISO 8601 dates, A4 Word reports and a colour-blind-safe palette
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Data Science**
@@ -63,6 +88,7 @@ I work where **technology, data and business strategy** meet. I build machine-le
 
 | Project | What it does | Stack |
 |---|---|---|
+| 📊 **[InsightDeck: Document-to-Dashboard](https://github.com/erisimasol/insightdeck)** | Turns any document into an analysed dashboard with role-based access and HTML/Word report export | Python · Flask · pandas · JavaScript |
 | 🛡️ **[ProctoAI — AI Exam Proctoring](https://github.com/erisimasol/proctoai-exam-proctoring)** | Automated online-exam proctoring with real-time AI detection of suspicious behaviour | React · Redux · Node.js · TensorFlow.js |
 | 📰 **[Financial News Sentiment vs. Stock Prices](https://github.com/erisimasol/financial-news-sentiment-analysis)** | NLP sentiment analysis on a large financial-news corpus, correlated with stock market movements | Python · NLP · Pandas |
 | 🏥 **[Ethiopian Medical Data Warehouse](https://github.com/erisimasol/ethiopian-medical-data-warehouse)** | Scrapes Telegram channels into a scalable data warehouse, with YOLO object detection on images | Python · PostgreSQL · YOLO |
