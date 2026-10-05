@@ -63,13 +63,15 @@ I work where **technology, data and business strategy** meet. I build machine-le
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛡️ **[ProctoAI — AI Exam Proctoring](https://github.com/erisimasol/AI-EXAM)** | Automated online-exam proctoring with real-time AI detection of suspicious behaviour | React · Redux · Node.js · TensorFlow.js |
-| 📰 **[Financial News Sentiment vs. Stock Prices](https://github.com/erisimasol/Week-01-KAIM-10X)** | NLP sentiment analysis on a large financial-news corpus, correlated with stock market movements | Python · NLP · Pandas |
-| 🏥 **[Ethiopian Medical Data Warehouse](https://github.com/erisimasol/Week-7-10X)** | Scrapes Telegram channels into a scalable data warehouse, with YOLO object detection on images | Python · PostgreSQL · YOLO |
-| 📈 **[Tesla Stock Analysis & Forecasting](https://github.com/erisimasol/Week-11-KAIM-10X)** | Ten years of TSLA prices: statistics, visual analysis and ML-based forecasting | Python · scikit-learn |
-| 💳 **[Loan Approval Predictor](https://github.com/erisimasol/Loan_approval-)** | End-to-end ML app that predicts loan approval from applicant data | Python · scikit-learn |
+| 🛡️ **[ProctoAI — AI Exam Proctoring](https://github.com/erisimasol/proctoai-exam-proctoring)** | Automated online-exam proctoring with real-time AI detection of suspicious behaviour | React · Redux · Node.js · TensorFlow.js |
+| 📰 **[Financial News Sentiment vs. Stock Prices](https://github.com/erisimasol/financial-news-sentiment-analysis)** | NLP sentiment analysis on a large financial-news corpus, correlated with stock market movements | Python · NLP · Pandas |
+| 🏥 **[Ethiopian Medical Data Warehouse](https://github.com/erisimasol/ethiopian-medical-data-warehouse)** | Scrapes Telegram channels into a scalable data warehouse, with YOLO object detection on images | Python · PostgreSQL · YOLO |
+| 📈 **[Tesla Stock Analysis & Forecasting](https://github.com/erisimasol/tesla-stock-forecasting)** | Ten years of TSLA prices: statistics, visual analysis and ML-based forecasting | Python · scikit-learn |
+| 💳 **[Loan Approval Predictor](https://github.com/erisimasol/loan-approval-predictor)** | End-to-end ML app that predicts loan approval from applicant data | Python · XGBoost · Streamlit |
+| 🔍 **[Fraud Detection](https://github.com/erisimasol/fraud-detection-ml)** | ML fraud detection for e-commerce and banking transactions | Python · scikit-learn |
+| 🛢️ **[Brent Oil Change-Point Analysis](https://github.com/erisimasol/brent-oil-change-point-analysis)** | Links shifts in Brent oil prices to major political and economic events | Python · Time Series |
 | 👥 **[Employee Turnover Prediction](https://github.com/erisimasol/Employee-Turnover)** | Predicts which employees are likely to leave, from workload, tenure, promotions and salary | Python · Classification |
-| 🎗️ **[Breast Cancer Classification](https://github.com/erisimasol/Breast_cancer)** | Supervised classification models for tumour diagnosis | Python · scikit-learn |
+| 🎗️ **[Breast Cancer Classification](https://github.com/erisimasol/breast-cancer-classification)** | Supervised classification models for tumour diagnosis | Python · scikit-learn |
 | 🍽️ **[Catering Management Web App](https://github.com/erisimasol/catering-webapp)** | Digitises orders, menus and operations for catering businesses | JavaScript · Node.js |
 
 ---
